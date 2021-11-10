@@ -1,57 +1,40 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Rishabh Jindal",
+    "label": "Senior Associated",
+    "picture": "https://github.com/poddarkritika/poddarkritika.github.io/raw/master/images/profile-pic.jpg",
+    "email": "kritikapoddar3@gmail.com",
+    "phone": "+918159819690",
+    "website": "https://poddarkritika.github.io",
+    "summary": "I'm a qualified Chartered Accountant and Company Secretary with 5 plus years of experience in indirect taxation post qualification. I have handled compliance, advisory and litigation matters in indirect taxation",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "560095",
+      "city": "Bangaluru",
+      "countryCode": "IND",
+      "region": "Karnataka"
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "kritikapoddar",
+        "url": "https://www.linkedin.com/in/kritikapoddar/"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "_kritikapoddar",
+        "url": "http://instagram.com/_kritikapoddar"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Traveling",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Reading",
       "keywords": [
       ]
     }
@@ -61,23 +44,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+       "Excel"
       ]
     }
   ],
